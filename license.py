@@ -83,7 +83,6 @@ def add_text(license,text, location ,thickness = 2,font = cv2.FONT_HERSHEY_SIMPL
 
 """
 
-
 for i in range(0,10):
     
     l = add_text(license=temp_1, text=fake.name(), location=name_l, thickness=1)
