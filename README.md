@@ -4,7 +4,9 @@ The intention of writing this script is to generate a dataset to simulate sensit
 
 The script is written in python. This script can be modified to generate automatic certificates in educational setting or can be used to modified just about anything given that you have a template. 
 
-image_1 and image_2 are the examples of output.
+
 
 # RUN
 Download license.py file with a license template image and run the .py file.
+![image_1](https://user-images.githubusercontent.com/24703858/182014639-3abfdc61-9cc0-40d3-acea-b89910b20c84.jpg)
+![image_2](https://user-images.githubusercontent.com/24703858/182014640-d87a3294-4b2c-4e1c-94a2-ecf650fd26ce.jpg)
